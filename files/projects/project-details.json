@@ -366,6 +366,10 @@
           "href": "https://aakashdinkarh.github.io/Looklike_Cosmetic_Store/"
         }
       ],
+      "image": {
+        "avif": "https://aakashdinkarh.github.io/static_assets/images/projects/avif/looklike-cosmetic-store.avif",
+        "webp": "https://aakashdinkarh.github.io/static_assets/images/projects/webp/looklike-cosmetic-store.webp"
+      },
       "tags": [
         "Intern Project"
       ]
