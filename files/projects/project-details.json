@@ -75,8 +75,8 @@
         }
       ],
       "image": {
-        "avif": "http://aakashdinkarh.github.io/static_assets/images/projects/avif/image-convert.avif",
-        "webp": "http://aakashdinkarh.github.io/static_assets/images/projects/webp/image-convert.webp"
+        "avif": "https://aakashdinkarh.github.io/static_assets/images/projects/avif/image-convert.avif",
+        "webp": "https://aakashdinkarh.github.io/static_assets/images/projects/webp/image-convert.webp"
       },
       "tags": ["Tool", "Image Conversion"]
     },
