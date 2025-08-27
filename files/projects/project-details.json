@@ -17,9 +17,7 @@
         "avif": "https://aakashdinkarh.github.io/static_assets/images/projects/avif/portfolio.avif",
         "webp": "https://aakashdinkarh.github.io/static_assets/images/projects/webp/portfolio.webp"
       },
-      "tags": [
-        "Portfolio"
-      ]
+      "tags": ["Portfolio"]
     },
     {
       "title": "Smart Components Dinkar",
@@ -42,10 +40,7 @@
         "avif": "https://aakashdinkarh.github.io/static_assets/images/projects/avif/devDinkar-codebook.avif",
         "webp": "https://aakashdinkarh.github.io/static_assets/images/projects/webp/devDinkar-codebook.webp"
       },
-      "tags": [
-        "React",
-        "Library/Package"
-      ]
+      "tags": ["React", "Library/Package"]
     },
     {
       "title": "JS/TS Playground",
@@ -64,11 +59,26 @@
         "avif": "https://aakashdinkarh.github.io/static_assets/images/projects/avif/js-ts-playground.avif",
         "webp": "https://aakashdinkarh.github.io/static_assets/images/projects/webp/js-ts-playground.webp"
       },
-      "tags": [
-        "React",
-        "Utility",
-        "Productivity"
-      ]
+      "tags": ["React", "Utility", "Productivity"]
+    },
+    {
+      "title": "Image Converter",
+      "description": "A lightweight online tool to quickly convert images between formats such as PNG, WebP, and AVIF, optimized for performance and ease of use.",
+      "links": [
+        {
+          "title": "View on GitHub",
+          "href": "https://github.com/aakashdinkarh/image-convert"
+        },
+        {
+          "title": "Try it Now",
+          "href": "https://aakashdinkar.in/image-convert/"
+        }
+      ],
+      "image": {
+        "avif": "http://aakashdinkarh.github.io/static_assets/images/projects/avif/image-convert.avif",
+        "webp": "http://aakashdinkarh.github.io/static_assets/images/projects/webp/image-convert.webp"
+      },
+      "tags": ["Tool", "Image Conversion"]
     },
     {
       "title": "Bounce and Collect Game",
@@ -87,9 +97,7 @@
         "avif": "https://aakashdinkarh.github.io/static_assets/images/projects/avif/bounce-and-collect-game.avif",
         "webp": "https://aakashdinkarh.github.io/static_assets/images/projects/webp/bounce-and-collect-game.webp"
       },
-      "tags": [
-        "Game"
-      ]
+      "tags": ["Game"]
     },
     {
       "title": "WebRepo Editor",
@@ -108,9 +116,7 @@
         "avif": "https://aakashdinkarh.github.io/static_assets/images/projects/avif/web-repo-editor.avif",
         "webp": "https://aakashdinkarh.github.io/static_assets/images/projects/webp/web-repo-editor.webp"
       },
-      "tags": [
-        "React"
-      ]
+      "tags": ["React"]
     },
     {
       "title": "Window Props Plus",
@@ -129,11 +135,7 @@
         "avif": "https://aakashdinkarh.github.io/static_assets/images/projects/avif/window-props-plus.avif",
         "webp": "https://aakashdinkarh.github.io/static_assets/images/projects/webp/window-props-plus.webp"
       },
-      "tags": [
-        "Chrome Extension",
-        "Utility",
-        "Productivity"
-      ]
+      "tags": ["Chrome Extension", "Utility", "Productivity"]
     },
     {
       "title": "Content Tracker",
@@ -152,11 +154,7 @@
         "avif": "https://aakashdinkarh.github.io/static_assets/images/projects/avif/content-tracker.avif",
         "webp": "https://aakashdinkarh.github.io/static_assets/images/projects/webp/content-tracker.webp"
       },
-      "tags": [
-        "Chrome Extension",
-        "Utility",
-        "Productivity"
-      ]
+      "tags": ["Chrome Extension", "Utility", "Productivity"]
     }
   ],
   "all_projects": [
@@ -177,9 +175,7 @@
         "avif": "https://aakashdinkarh.github.io/static_assets/images/projects/avif/movie-db-project.avif",
         "webp": "https://aakashdinkarh.github.io/static_assets/images/projects/webp/movie-db-project.webp"
       },
-      "tags": [
-        "React"
-      ]
+      "tags": ["React"]
     },
     {
       "title": "Tic Tac Toe Game",
@@ -198,10 +194,7 @@
         "avif": "https://aakashdinkarh.github.io/static_assets/images/projects/avif/tic-tac-toe.avif",
         "webp": "https://aakashdinkarh.github.io/static_assets/images/projects/webp/tic-tac-toe.webp"
       },
-      "tags": [
-        "React",
-        "Game"
-      ]
+      "tags": ["React", "Game"]
     },
     {
       "title": "Block Game",
@@ -220,9 +213,7 @@
         "avif": "https://aakashdinkarh.github.io/static_assets/images/projects/avif/block-game.avif",
         "webp": "https://aakashdinkarh.github.io/static_assets/images/projects/webp/block-game.webp"
       },
-      "tags": [
-        "Game"
-      ]
+      "tags": ["Game"]
     },
     {
       "title": "Memory Game",
@@ -241,9 +232,7 @@
         "avif": "https://aakashdinkarh.github.io/static_assets/images/projects/avif/memory-game.avif",
         "webp": "https://aakashdinkarh.github.io/static_assets/images/projects/webp/memory-game.webp"
       },
-      "tags": [
-        "Game"
-      ]
+      "tags": ["Game"]
     },
     {
       "title": "Todo React App",
@@ -262,11 +251,7 @@
         "avif": "https://aakashdinkarh.github.io/static_assets/images/projects/avif/todo-react-app.avif",
         "webp": "https://aakashdinkarh.github.io/static_assets/images/projects/webp/todo-react-app.webp"
       },
-      "tags": [
-        "React",
-        "Productivity",
-        "Utility"
-      ]
+      "tags": ["React", "Productivity", "Utility"]
     },
     {
       "title": "Case Utils",
@@ -285,10 +270,7 @@
         "avif": "https://aakashdinkarh.github.io/static_assets/images/projects/avif/case-utils.avif",
         "webp": "https://aakashdinkarh.github.io/static_assets/images/projects/webp/case-utils.webp"
       },
-      "tags": [
-        "Utility",
-        "Productivity"
-      ]
+      "tags": ["Utility", "Productivity"]
     },
     {
       "title": "Music Player Project",
@@ -307,9 +289,7 @@
         "avif": "https://aakashdinkarh.github.io/static_assets/images/projects/avif/music-player-project.avif",
         "webp": "https://aakashdinkarh.github.io/static_assets/images/projects/webp/music-player-project.webp"
       },
-      "tags": [
-        "React"
-      ]
+      "tags": ["React"]
     },
     {
       "title": "Rail API App React",
@@ -328,9 +308,7 @@
         "avif": "https://aakashdinkarh.github.io/static_assets/images/projects/avif/rail-api-project.avif",
         "webp": "https://aakashdinkarh.github.io/static_assets/images/projects/webp/rail-api-project.webp"
       },
-      "tags": [
-        "React"
-      ]
+      "tags": ["React"]
     },
     {
       "title": "Lawyer Project",
@@ -349,9 +327,7 @@
         "avif": "https://aakashdinkarh.github.io/static_assets/images/projects/avif/lawyer-project.avif",
         "webp": "https://aakashdinkarh.github.io/static_assets/images/projects/webp/lawyer-project.webp"
       },
-      "tags": [
-        "Intern Project"
-      ]
+      "tags": ["Intern Project"]
     },
     {
       "title": "LookLike Cosmetic Store",
@@ -370,9 +346,7 @@
         "avif": "https://aakashdinkarh.github.io/static_assets/images/projects/avif/looklike-cosmetic-store.avif",
         "webp": "https://aakashdinkarh.github.io/static_assets/images/projects/webp/looklike-cosmetic-store.webp"
       },
-      "tags": [
-        "Intern Project"
-      ]
+      "tags": ["Intern Project"]
     },
     {
       "title": "Booker - Textbook Renter",
@@ -391,9 +365,7 @@
         "avif": "https://aakashdinkarh.github.io/static_assets/images/projects/avif/booker-textbook-renter.avif",
         "webp": "https://aakashdinkarh.github.io/static_assets/images/projects/webp/booker-textbook-renter.webp"
       },
-      "tags": [
-        "Intern Project"
-      ]
+      "tags": ["Intern Project"]
     },
     {
       "title": "Wedding Site",
@@ -412,9 +384,7 @@
         "avif": "https://aakashdinkarh.github.io/static_assets/images/projects/avif/wedding-site.avif",
         "webp": "https://aakashdinkarh.github.io/static_assets/images/projects/webp/wedding-site.webp"
       },
-      "tags": [
-        "Intern Project"
-      ]
+      "tags": ["Intern Project"]
     },
     {
       "title": "Portfolio V1",
@@ -433,9 +403,7 @@
         "avif": "https://aakashdinkarh.github.io/static_assets/images/projects/avif/portfolio-v1.avif",
         "webp": "https://aakashdinkarh.github.io/static_assets/images/projects/webp/portfolio-v1.webp"
       },
-      "tags": [
-        "Portfolio"
-      ]
+      "tags": ["Portfolio"]
     },
     {
       "title": "Portfolio V0",
@@ -454,9 +422,7 @@
         "avif": "https://aakashdinkarh.github.io/static_assets/images/projects/avif/portfolio-v0.avif",
         "webp": "https://aakashdinkarh.github.io/static_assets/images/projects/webp/portfolio-v0.webp"
       },
-      "tags": [
-        "Portfolio"
-      ]
+      "tags": ["Portfolio"]
     },
     {
       "title": "Panda Image",
@@ -475,9 +441,7 @@
         "avif": "https://aakashdinkarh.github.io/static_assets/images/projects/avif/panda-img.avif",
         "webp": "https://aakashdinkarh.github.io/static_assets/images/projects/webp/panda-img.webp"
       },
-      "tags": [
-        "CSS Creative"
-      ]
+      "tags": ["CSS Creative"]
     },
     {
       "title": "Calculator",
@@ -496,9 +460,7 @@
         "avif": "https://aakashdinkarh.github.io/static_assets/images/projects/avif/calculator.avif",
         "webp": "https://aakashdinkarh.github.io/static_assets/images/projects/webp/calculator.webp"
       },
-      "tags": [
-        "Utility"
-      ]
+      "tags": ["Utility"]
     },
     {
       "title": "Modal Image",
