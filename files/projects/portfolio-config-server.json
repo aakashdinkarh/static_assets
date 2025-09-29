@@ -1,4 +1,29 @@
 {
+  "home": {
+    "title": "I'm Aakash Dinkar<br>Web Developer",
+    "cta_text": "Know more about me",
+    "image": {
+      "avif": "https://aakashdinkarh.github.io/static_assets/images/portfolio/avif-images/portfolio.avif",
+      "webp": "https://aakashdinkarh.github.io/static_assets/images/portfolio/webp-images/portfolio.webp",
+      "alt": "Aakash Dinkar Portfolio Image"
+    }
+  },
+  "about": {
+    "title": "About",
+    "description": "I'm a Civil Engineering graduate with a B.Tech degree from IIT BHU, batch of 2022",
+    "description2": "Experienced front-end developer skilled in creating responsive, performance optimized, user-friendly interfaces for web applications.",
+    "description3": "Passionate about user experience design, I aim to craft visually appealing and intuitive interfaces that elevate the user's experience.",
+    "cta" : {
+      "text": "Download Resume",
+      "link": "https://aakashdinkarh.github.io/static_assets/files/portfolio/resume/resume.pdf",
+      "download_name": "Aakash Dinkar Resume"
+    },
+    "image": {
+      "avif": "https://aakashdinkarh.github.io/static_assets/images/portfolio/avif-images/photo.avif",
+      "webp": "https://aakashdinkarh.github.io/static_assets/images/portfolio/webp-images/photo.webp",
+      "alt": "About Image - Aakash Dinkar"
+    }
+  },
   "skill_categories": [
     {
       "title": "Languages, Libraries & Frameworks",
