@@ -3,8 +3,7 @@
     "title": "I'm Aakash Dinkar<br>Web Developer",
     "cta_text": "Know more about me",
     "image": {
-      "avif": "https://aakashdinkarh.github.io/static_assets/images/portfolio/avif-images/portfolio.avif",
-      "webp": "https://aakashdinkarh.github.io/static_assets/images/portfolio/webp-images/portfolio.webp",
+      "webp": "https://aakashdinkarh.github.io/static_assets/images/portfolio/webp-images/portfolio_404.webp",
       "alt": "Aakash Dinkar Portfolio Image"
     }
   },
