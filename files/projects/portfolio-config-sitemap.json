@@ -1,0 +1,84 @@
+{
+  "urls": [
+    {
+      "url": "https://aakashdinkar.in/",
+      "priority": 1.0,
+    },
+    {
+      "url": "https://aakashdinkar.in/projects/",
+      "priority": 0.9,
+    },
+    {
+      "url": "https://aakashdinkar.in/js-ts-playground/",
+      "priority": 0.9,
+    },
+    {
+      "url": "https://aakashdinkar.in/web-repo-editor/",
+      "priority": 0.9,
+    },
+    {
+      "url": "https://aakashdinkar.in/image-convert/",
+      "priority": 0.9,
+    },
+    {
+      "url": "https://aakashdinkar.in/bounce-and-collect-game/",
+      "priority": 0.8,
+    },
+    {
+      "url": "https://aakashdinkar.in/Tic-Tac-Toe-Game/",
+      "priority": 0.8,
+    },
+    {
+      "url": "https://aakashdinkar.in/MemoryGame/",
+      "priority": 0.8,
+    },
+    {
+      "url": "https://aakashdinkar.in/block-game/",
+      "priority": 0.7,
+    },
+    {
+      "url": "https://aakashdinkar.in/todo-react-app/",
+      "priority": 0.6,
+    },
+    {
+      "url": "https://aakashdinkar.in/the-movie-db/",
+      "priority": 0.6,
+    },
+    {
+      "url": "https://aakashdinkar.in/portfolio-v1/",
+      "priority": 0.5,
+    },
+    {
+      "url": "https://aakashdinkar.in/portfolio-v0/",
+      "priority": 0.5,
+    },
+    {
+      "url": "https://aakashdinkar.in/case-utils/",
+      "priority": 0.5,
+    },
+    {
+      "url": "https://aakashdinkar.in/music-player-project/",
+      "priority": 0.3,
+    },
+    {
+      "url": "https://aakashdinkar.in/panda-img/",
+      "priority": 0.2,
+    },
+    {
+      "url": "https://aakashdinkar.in/calculator/",
+      "priority": 0.2,
+    },
+    {
+      "url": "https://aakashdinkar.in/Image-modal/",
+      "priority": 0.2,
+    },
+    {
+      "url": "https://aakashdinkar.in/checkout-form/",
+      "priority": 0.2,
+    },
+    {
+      "url": "https://aakashdinkar.in/Login-form/",
+      "priority": 0.2,
+    },
+  ],
+}
